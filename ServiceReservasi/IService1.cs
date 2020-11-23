@@ -59,7 +59,7 @@ namespace ServiceReservasi
         [DataMember]
         public string NamaCustomer { get; set; } //method
         [DataMember]
-        public string NoTelepon { get; set; }
+        public string NoTelpon { get; set; }
         [DataMember]
         public int JumlahPemesanan { get; set; }
         [DataMember]
